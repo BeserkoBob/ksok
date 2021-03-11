@@ -1,0 +1,5 @@
+node_modules
+buildit
+package.json
+package-json.lock
+service.yaml
